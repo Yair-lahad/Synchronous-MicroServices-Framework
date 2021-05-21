@@ -1,3 +1,4 @@
 # Synchronous-MicroServices-Framework
-Systems Proggraming Project
+Systems Programming Project
+
 Star wars themed project on Concurrency and Synchronization on Java
